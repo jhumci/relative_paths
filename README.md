@@ -11,6 +11,10 @@
   ```bash
   pip install seaborn
   ```
+- Or use the `requirements.txt` file to install all the requirements at once:
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ## Structure
 
